@@ -1,0 +1,13 @@
+.topBg {
+    height: 560px;
+    border-bottom-left-radius: 80px;
+    border-bottom-right-radius: 80px;
+    display: flex;
+    /* justify-content: center; */
+    /* align-items: center; */
+
+}
+.title{
+    font-size: 48px;
+    font-weight: bolder;
+}
